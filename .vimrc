@@ -13,7 +13,7 @@ set shiftwidth=4
 set shiftround
 set tabstop=4
 
-" Linebreak on 500 characters
+" Linebreak on 79 characters
 set linebreak
 set textwidth=79
 
